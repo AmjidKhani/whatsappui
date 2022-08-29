@@ -33,7 +33,7 @@ class _ChatState extends State<Chat> {
               radius: 20,
 backgroundImage: AssetImage(whatsappcontact[index].pic),
               ),
-              trailing: Text(whatsappcontact[index].tralingtext),
+              trailing: Text(whatsappcontact[index].tralingtext),,
 
                 );
               },
