@@ -10,11 +10,7 @@ class Users {
       required this.subtitle,
       required this.pic,
       required this.tralingtext});
-
-
 }
-
-
 List<Users> whatsappcontact = [
   Users(
     name: "Usama",
